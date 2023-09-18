@@ -6,4 +6,7 @@ I am a mother of two, a UNM alumni, and a previous Deep Dive Full-Stack Web Deve
 
 ## Current projects
 
+- Hello World: Java console application
+- Hello World: Android app
+
 ## Links
