@@ -10,3 +10,5 @@ I am a mother of two, a UNM alumni, and a previous Deep Dive Full-Stack Web Deve
 - Hello World: Android app
 
 ## Links
+
+- [LinkedIn](https://www.linkedin.com/in/smorales40/)
